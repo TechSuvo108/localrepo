@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height:30px;
+    overflow: hidden;
+}
+
+.typing{
+    width: 600px;
+}
+.search-box{
+    height: 50px;
+}
